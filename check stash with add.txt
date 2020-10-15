@@ -1,0 +1,3 @@
+check the stash with add file
+
+more text in file
